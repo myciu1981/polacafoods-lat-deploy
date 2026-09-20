@@ -1,0 +1,83 @@
+# Polaca Foods — konfiguracja dla hostingu Apache (cPanel)
+#
+# Plik leży w public/, więc Vite kopiuje go do dist/public przy każdym
+# buildzie. Wgrywasz razem z resztą plików do public_html.
+#
+# Strona jest w pełni statyczna — nie ma backendu ani tras klienckich,
+# więc CELOWO nie ma tu przekierowania wszystkiego na index.html.
+# Nieistniejący adres ma zwrócić prawdziwe 404, a nie udawać strony głównej.
+
+# ─── Dostęp dla robotów ───────────────────────────────────────────────
+# Nethero oddaje 403 crawlerom AI (ClaudeBot, GPTBot, Claude-Web,
+# PerplexityBot, CCBot) na każdym adresie, łącznie z robots.txt — blokada
+# siedzi w konfiguracji serwera wyżej, nie w tym pliku i nie w żadnym
+# przełączniku cPanela. Ta jedna dyrektywa ją zdejmuje. Nasz robots.txt
+# przepuszcza wszystkich, więc bez niej strona sama sobie przeczy.
+# Sprawdzone 20.09.2026: z tym blokiem te crawlery dostają 200.
+# Gdyby .htaccess kiedyś został nadpisany, blokada wróci po cichu.
+<IfModule mod_authz_core.c>
+  Require all granted
+</IfModule>
+
+# ─── Przekierowania kanoniczne ────────────────────────────────────────
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # wymuś HTTPS
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+  # www → bez www (odpowiednik middleware wwwRedirect z serwera Replita)
+  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+  RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+# ─── Kompresja ────────────────────────────────────────────────────────
+# Obrazy WebP są już skompresowane — ponowne pakowanie nic nie daje.
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml
+  AddOutputFilterByType DEFLATE application/javascript application/json
+  AddOutputFilterByType DEFLATE image/svg+xml
+</IfModule>
+
+# ─── Typy MIME ────────────────────────────────────────────────────────
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+  AddType image/avif .avif
+  AddType image/svg+xml .svg
+</IfModule>
+
+# ─── Cache ────────────────────────────────────────────────────────────
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  # Pliki w assets/ mają hash w nazwie — przy zmianie treści zmienia się
+  # nazwa, więc można je trzymać w cache bezterminowo.
+  <FilesMatch "\.(js|css)$">
+    ExpiresDefault "access plus 1 year"
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # Zdjęcia i logotypy zmieniają nazwy przy regeneracji manifestu,
+  # ale nie mają hasha — miesiąc to bezpieczny kompromis.
+  <FilesMatch "\.(webp|avif|jpg|jpeg|png|svg|ico)$">
+    ExpiresDefault "access plus 1 month"
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+
+  # index.html i manifest muszą się odświeżać od razu po wgraniu zmian
+  <FilesMatch "\.(html|json)$">
+    ExpiresDefault "access plus 0 seconds"
+    Header set Cache-Control "no-cache, must-revalidate"
+  </FilesMatch>
+</IfModule>
+
+# ─── Bezpieczeństwo ───────────────────────────────────────────────────
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# nie pokazuj zawartości katalogów bez index.html
+Options -Indexes

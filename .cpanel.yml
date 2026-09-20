@@ -1,0 +1,24 @@
+---
+# Wdrożenie polacafoods.lat na cPanel (konto myciu, nethero.pl).
+#
+# polacafoods.lat jest domeną DODATKOWĄ — jej document root to
+# public_html/polacafoods.lat, a nie samo public_html. Tam siedzi tymczasowa
+# domena główna konta (positive-orange-mole....cpanel.site), więc kopiowanie
+# do public_html nie pokazałoby się pod polacafoods.lat.
+#
+# cPanel przy deployu TYLKO KOPIUJE, nigdy nie usuwa. Dlatego katalogi, które
+# w całości pochodzą z builda, kasujemy przed skopiowaniem — inaczej zostają
+# w nich pliki wyrzucone z repo. Najbardziej dotyczy to assets/, gdzie nazwy
+# mają hash treści: bez czyszczenia narastałyby tam wszystkie stare wersje
+# index-*.js z każdego wdrożenia.
+#
+# Pliki luzem w korzeniu (index.html, .htaccess, robots.txt, sitemap.xml,
+# favicon.png, logo.png, apple-touch-icon.png, opengraph.jpg) są nadpisywane
+# przez cp. Gdyby któryś kiedyś zniknął z repo, trzeba go skasować na serwerze
+# ręcznie.
+deployment:
+  tasks:
+    - export DEPLOYPATH=$HOME/public_html/polacafoods.lat
+    - /bin/mkdir -p $DEPLOYPATH
+    - /bin/rm -rf $DEPLOYPATH/assets $DEPLOYPATH/images $DEPLOYPATH/logos $DEPLOYPATH/flags $DEPLOYPATH/partners
+    - /bin/cp -R site/. $DEPLOYPATH/
