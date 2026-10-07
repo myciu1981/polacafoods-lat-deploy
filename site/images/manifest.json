@@ -7,7 +7,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Agrohansa.png"
+  "logo": "logos/Agrohansa.png",
+  "opis": {
+   "pl": "Borówki i migdały w czekoladzie",
+   "es": "Arándanos y almendras cubiertos de chocolate"
+  }
  },
  {
   "brand": "Agrohansa",
@@ -17,7 +21,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Agrohansa.png"
+  "logo": "logos/Agrohansa.png",
+  "opis": {
+   "pl": "Borówki i migdały w czekoladzie",
+   "es": "Arándanos y almendras cubiertos de chocolate"
+  }
  },
  {
   "brand": "Agrohansa",
@@ -27,7 +35,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Agrohansa.png"
+  "logo": "logos/Agrohansa.png",
+  "opis": {
+   "pl": "Borówki w czekoladzie i liofilizowana czarna porzeczka",
+   "es": "Arándanos cubiertos de chocolate y grosella negra liofilizada"
+  }
  },
  {
   "brand": "Agrohansa",
@@ -37,7 +49,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Agrohansa.png"
+  "logo": "logos/Agrohansa.png",
+  "opis": {
+   "pl": "Wiśnie, migdały i orzechy w czekoladzie",
+   "es": "Cerezas, almendras y otros frutos secos cubiertos de chocolate"
+  }
  },
  {
   "brand": "Agrohansa",
@@ -47,7 +63,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Agrohansa.png"
+  "logo": "logos/Agrohansa.png",
+  "opis": {
+   "pl": "Orzechy laskowe, migdały i wiśnie w czekoladzie",
+   "es": "Avellanas, almendras y cerezas cubiertas de chocolate"
+  }
  },
  {
   "brand": "Agrohansa",
@@ -57,7 +77,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Agrohansa.png"
+  "logo": "logos/Agrohansa.png",
+  "opis": {
+   "pl": "Żurawina i orzechy laskowe w czekoladzie",
+   "es": "Arándanos rojos y avellanas cubiertos de chocolate"
+  }
  },
  {
   "brand": "ZPC Bałtyk",
@@ -67,7 +91,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/ZPC_Baltyk.svg"
+  "logo": "logos/ZPC_Baltyk.svg",
+  "opis": {
+   "pl": "Czekolady nadziewane",
+   "es": "Tabletas de chocolate rellenas"
+  }
  },
  {
   "brand": "ZPC Bałtyk",
@@ -77,7 +105,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/ZPC_Baltyk.svg"
+  "logo": "logos/ZPC_Baltyk.svg",
+  "opis": {
+   "pl": "Cukierki toffi w czekoladzie",
+   "es": "Dulces de toffee cubiertos de chocolate"
+  }
  },
  {
   "brand": "ZPC Bałtyk",
@@ -87,7 +119,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/ZPC_Baltyk.svg"
+  "logo": "logos/ZPC_Baltyk.svg",
+  "opis": {
+   "pl": "Czekoladki z nadzieniem alkoholowym",
+   "es": "Chocolates rellenos de licor"
+  }
  },
  {
   "brand": "ZPC Bałtyk",
@@ -97,7 +133,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/ZPC_Baltyk.svg"
+  "logo": "logos/ZPC_Baltyk.svg",
+  "opis": {
+   "pl": "Cukierki z nadzieniem likierowym i praliny owocowe",
+   "es": "Dulces rellenos de licor y chocolates rellenos de fruta"
+  }
  },
  {
   "brand": "ZPC Bałtyk",
@@ -107,7 +147,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/ZPC_Baltyk.svg"
+  "logo": "logos/ZPC_Baltyk.svg",
+  "opis": {
+   "pl": "Praliny owocowe i cukierki likierowe",
+   "es": "Chocolates rellenos de fruta y dulces rellenos de licor"
+  }
  },
  {
   "brand": "ZPC Bałtyk",
@@ -117,7 +161,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/ZPC_Baltyk.svg"
+  "logo": "logos/ZPC_Baltyk.svg",
+  "opis": {
+   "pl": "Czekoladki mleczne z orzechami laskowymi",
+   "es": "Chocolates de leche rellenos de avellanas"
+  }
  },
  {
   "brand": "Colian",
@@ -127,7 +175,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Colian.svg"
+  "logo": "logos/Colian.svg",
+  "opis": {
+   "pl": "Cukierki toffi, praliny oraz orzechy i wiśnie w czekoladzie",
+   "es": "Dulces de toffee, chocolates rellenos, avellanas y cerezas cubiertas de chocolate"
+  }
  },
  {
   "brand": "Colian",
@@ -137,7 +189,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Colian.svg"
+  "logo": "logos/Colian.svg",
+  "opis": {
+   "pl": "Ciastka z czekoladą i chrupiące kulki",
+   "es": "Galletas con chocolate y bolitas crujientes"
+  }
  },
  {
   "brand": "Colian",
@@ -147,7 +203,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Colian.svg"
+  "logo": "logos/Colian.svg",
+  "opis": {
+   "pl": "Bombonierki i galaretki w czekoladzie",
+   "es": "Cajas de chocolates y jaleas de fruta cubiertas de chocolate"
+  }
  },
  {
   "brand": "Cukry Nyskie",
@@ -157,7 +217,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Cukry_Nyskie.png"
+  "logo": "logos/Cukry_Nyskie.png",
+  "opis": {
+   "pl": "Kruche herbatniki z masłem",
+   "es": "Galletas de mantequilla"
+  }
  },
  {
   "brand": "Cukry Nyskie",
@@ -167,7 +231,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Cukry_Nyskie.png"
+  "logo": "logos/Cukry_Nyskie.png",
+  "opis": {
+   "pl": "Herbatniki maślane",
+   "es": "Galletas tipo Petit Beurre de mantequilla"
+  }
  },
  {
   "brand": "Cukry Nyskie",
@@ -177,7 +245,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Cukry_Nyskie.png"
+  "logo": "logos/Cukry_Nyskie.png",
+  "opis": {
+   "pl": "Herbatniki bez dodatku cukru",
+   "es": "Galletas sin azúcares añadidos"
+  }
  },
  {
   "brand": "Cukry Nyskie",
@@ -187,7 +259,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Cukry_Nyskie.png"
+  "logo": "logos/Cukry_Nyskie.png",
+  "opis": {
+   "pl": "Wafle bez dodatku cukru",
+   "es": "Wafers sin azúcares añadidos"
+  }
  },
  {
   "brand": "Cukry Nyskie",
@@ -197,7 +273,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Cukry_Nyskie.png"
+  "logo": "logos/Cukry_Nyskie.png",
+  "opis": {
+   "pl": "Markizy, ciastka przekładane kremem",
+   "es": "Galletas tipo sándwich rellenas de crema"
+  }
  },
  {
   "brand": "Cukry Nyskie",
@@ -207,7 +287,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Cukry_Nyskie.png"
+  "logo": "logos/Cukry_Nyskie.png",
+  "opis": {
+   "pl": "Wafle proteinowe w czekoladzie mlecznej",
+   "es": "Wafers con proteína cubiertos de chocolate con leche"
+  }
  },
  {
   "brand": "Dagoma",
@@ -217,7 +301,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Dżem wiśniowy",
+   "es": "Mermelada de cereza"
+  }
  },
  {
   "brand": "Dagoma",
@@ -227,7 +315,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Dżem z czarnej porzeczki",
+   "es": "Mermelada de grosella negra"
+  }
  },
  {
   "brand": "Dagoma",
@@ -237,7 +329,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Grillowana czerwona papryka",
+   "es": "Pimiento morrón rojo asado en conserva"
+  }
  },
  {
   "brand": "Dagoma",
@@ -247,7 +343,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Pomidory suszone w oleju",
+   "es": "Jitomates deshidratados en aceite"
+  }
  },
  {
   "brand": "Dagoma",
@@ -257,7 +357,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Dżem brzoskwiniowy",
+   "es": "Mermelada de durazno"
+  }
  },
  {
   "brand": "Dagoma",
@@ -267,7 +371,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Dżem truskawkowy",
+   "es": "Mermelada de fresa"
+  }
  },
  {
   "brand": "Dagoma",
@@ -277,7 +385,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Groszek konserwowy",
+   "es": "Chícharos en conserva"
+  }
  },
  {
   "brand": "Dagoma",
@@ -287,7 +399,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Gruszki w occie",
+   "es": "Peras en vinagre"
+  }
  },
  {
   "brand": "Dagoma",
@@ -297,7 +413,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Kapusta kiszona",
+   "es": "Chucrut (col fermentada)"
+  }
  },
  {
   "brand": "Dagoma",
@@ -307,7 +427,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Kompot gruszkowy",
+   "es": "Peras en almíbar"
+  }
  },
  {
   "brand": "Dagoma",
@@ -317,7 +441,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Kompot śliwkowy",
+   "es": "Ciruelas en almíbar"
+  }
  },
  {
   "brand": "Dagoma",
@@ -327,7 +455,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Kompot wiśniowy",
+   "es": "Cerezas en almíbar"
+  }
  },
  {
   "brand": "Dagoma",
@@ -337,7 +469,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Powidła śliwkowe",
+   "es": "Mermelada espesa de ciruela"
+  }
  },
  {
   "brand": "Dagoma",
@@ -347,7 +483,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Dagoma.png"
+  "logo": "logos/Dagoma.png",
+  "opis": {
+   "pl": "Seler sałatkowy",
+   "es": "Apio nabo rallado en conserva"
+  }
  },
  {
   "brand": "Flis",
@@ -357,7 +497,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Rurki waflowe z kremem o smaku pieczonego jabłka",
+   "es": "Barquillos rellenos de crema sabor manzana horneada"
+  }
  },
  {
   "brand": "Flis",
@@ -367,7 +511,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Rurki waflowe bez dodatku cukru",
+   "es": "Barquillos rellenos de crema sin azúcares añadidos"
+  }
  },
  {
   "brand": "Flis",
@@ -377,7 +525,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Rurki waflowe z kremem ze słodkiego ziemniaka",
+   "es": "Barquillos rellenos de crema de camote morado"
+  }
  },
  {
   "brand": "Flis",
@@ -387,7 +539,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Wafle proteinowe z kremem arachidowym",
+   "es": "Wafers con proteína y crema de cacahuate"
+  }
  },
  {
   "brand": "Flis",
@@ -397,7 +553,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Wafle proteinowe z kremem waniliowym",
+   "es": "Wafers con proteína y crema de vainilla"
+  }
  },
  {
   "brand": "Flis",
@@ -407,7 +567,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Wafle bez glutenu i laktozy, bez dodatku cukru",
+   "es": "Wafers sin gluten, sin lactosa y sin azúcares añadidos"
+  }
  },
  {
   "brand": "Flis",
@@ -417,7 +581,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Wafle proteinowe z kremem kakaowym",
+   "es": "Wafers con proteína y crema de cacao"
+  }
  },
  {
   "brand": "Flis",
@@ -427,7 +595,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Wafle miodowe z kremem kokosowym",
+   "es": "Wafers de miel rellenos de crema de coco"
+  }
  },
  {
   "brand": "Flis",
@@ -437,7 +609,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Wafle miodowe z kremem sezamowym",
+   "es": "Wafers de miel rellenos de crema de ajonjolí"
+  }
  },
  {
   "brand": "Flis",
@@ -447,7 +623,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Wafle miodowe z kremem ze słodkiego ziemniaka",
+   "es": "Wafers de miel rellenos de crema de camote morado"
+  }
  },
  {
   "brand": "Flis",
@@ -457,7 +637,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Wafelki kokosowe z kremem",
+   "es": "Wafers de coco rellenos de crema"
+  }
  },
  {
   "brand": "Flis",
@@ -467,7 +651,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Wafelki orzechowe z kremem",
+   "es": "Wafers de avellana rellenos de crema"
+  }
  },
  {
   "brand": "Flis",
@@ -477,7 +665,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Flis.png"
+  "logo": "logos/Flis.png",
+  "opis": {
+   "pl": "Wafelki karmelowe z kremem",
+   "es": "Wafers de caramelo rellenos de crema"
+  }
  },
  {
   "brand": "Hildebrand",
@@ -487,7 +679,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Hildebrand.png"
+  "logo": "logos/Hildebrand.png",
+  "opis": {
+   "pl": "Trufle w czekoladzie",
+   "es": "Trufas cubiertas de chocolate"
+  }
  },
  {
   "brand": "Hildebrand",
@@ -497,7 +693,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Hildebrand.png"
+  "logo": "logos/Hildebrand.png",
+  "opis": {
+   "pl": "Praliny w czekoladzie",
+   "es": "Chocolates rellenos"
+  }
  },
  {
   "brand": "Hildebrand",
@@ -507,7 +707,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Hildebrand.png"
+  "logo": "logos/Hildebrand.png",
+  "opis": {
+   "pl": "Wiśnie z likierem w czekoladzie",
+   "es": "Cerezas al licor cubiertas de chocolate"
+  }
  },
  {
   "brand": "Hildebrand",
@@ -517,7 +721,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Hildebrand.png"
+  "logo": "logos/Hildebrand.png",
+  "opis": {
+   "pl": "Czekoladowe buteleczki z alkoholem",
+   "es": "Botellitas de chocolate rellenas de licor"
+  }
  },
  {
   "brand": "Hildebrand",
@@ -527,7 +735,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Hildebrand.png"
+  "logo": "logos/Hildebrand.png",
+  "opis": {
+   "pl": "Czekoladowe buteleczki z alkoholem",
+   "es": "Botellitas de chocolate rellenas de licor"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -537,7 +749,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Ciastka kakaowe z kremem mlecznym",
+   "es": "Galletas de cacao con relleno cremoso de leche"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -547,7 +763,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Mini herbatniki z czekoladą",
+   "es": "Mini galletas decoradas con chocolate"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -557,7 +777,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Biszkopty z kremem i nadzieniem morelowym",
+   "es": "Pastelitos de bizcocho rellenos de crema y chabacano"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -567,7 +791,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Pierniki z nadzieniem truskawkowym w polewie",
+   "es": "Pan de jengibre relleno de fresa con cobertura de chocolate"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -577,7 +805,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Pierniki z nadzieniem śliwkowym w polewie",
+   "es": "Pan de jengibre relleno de ciruela con cobertura de chocolate"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -587,7 +819,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Pierniki z nadzieniem owocowym w polewie",
+   "es": "Pan de jengibre relleno de frutas con cobertura de chocolate"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -597,7 +833,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Wafelki kokosowe",
+   "es": "Wafers de coco"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -607,7 +847,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Wafelki śmietankowe",
+   "es": "Wafers rellenos de crema"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -617,7 +861,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Wafelki kakaowe",
+   "es": "Wafers de cacao"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -627,7 +875,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Wafelki kakaowe",
+   "es": "Wafers de cacao"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -637,7 +889,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Biszkopty z galaretką wiśniową w polewie",
+   "es": "Pastelitos de bizcocho con jalea de cereza y cobertura de chocolate"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -647,7 +903,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Biszkopty z galaretką truskawkową w polewie",
+   "es": "Pastelitos de bizcocho con jalea de fresa y cobertura de chocolate"
+  }
  },
  {
   "brand": "ZPC Iga",
@@ -657,7 +917,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Iga.png"
+  "logo": "logos/ZPC_Iga.png",
+  "opis": {
+   "pl": "Wafle kakaowe",
+   "es": "Wafers de cacao"
+  }
  },
  {
   "brand": "Jago",
@@ -667,7 +931,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Jago.png"
+  "logo": "logos/Jago.png",
+  "opis": {
+   "pl": "Wafle z kremem kakaowym i śmietankowym",
+   "es": "Wafers rellenos de crema de cacao y de leche"
+  }
  },
  {
   "brand": "Jago",
@@ -677,7 +945,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Jago.png"
+  "logo": "logos/Jago.png",
+  "opis": {
+   "pl": "Wafelki w czekoladzie mlecznej",
+   "es": "Wafers cubiertos de chocolate con leche"
+  }
  },
  {
   "brand": "Jago",
@@ -687,7 +959,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Jago.png"
+  "logo": "logos/Jago.png",
+  "opis": {
+   "pl": "Herbatniki z kremem w czekoladzie",
+   "es": "Galletas rellenas de crema cubiertas de chocolate"
+  }
  },
  {
   "brand": "Jago",
@@ -697,7 +973,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Jago.png"
+  "logo": "logos/Jago.png",
+  "opis": {
+   "pl": "Czekoladki z nadzieniem",
+   "es": "Chocolates rellenos"
+  }
  },
  {
   "brand": "Jago",
@@ -707,7 +987,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Jago.png"
+  "logo": "logos/Jago.png",
+  "opis": {
+   "pl": "Wafle przekładane kremem",
+   "es": "Wafers rellenos de crema"
+  }
  },
  {
   "brand": "Jago",
@@ -717,7 +1001,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Jago.png"
+  "logo": "logos/Jago.png",
+  "opis": {
+   "pl": "Rurki waflowe z kremem",
+   "es": "Barquillos rellenos de crema"
+  }
  },
  {
   "brand": "Jago",
@@ -727,7 +1015,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Jago.png"
+  "logo": "logos/Jago.png",
+  "opis": {
+   "pl": "Wafle przekładane kremem",
+   "es": "Wafers rellenos de crema"
+  }
  },
  {
   "brand": "Lumar",
@@ -737,7 +1029,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Lumar.png"
+  "logo": "logos/Lumar.png",
+  "opis": {
+   "pl": "Kulki waflowe, wafelki i czekoladki",
+   "es": "Bolitas de wafer, wafers y chocolates"
+  }
  },
  {
   "brand": "Szydłowianka",
@@ -747,7 +1043,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Purple_Valley_Szydlowianka_male.png"
+  "logo": "logos/Purple_Valley_Szydlowianka_male.png",
+  "opis": {
+   "pl": "Suszone śliwki w czekoladzie",
+   "es": "Ciruelas pasas cubiertas de chocolate"
+  }
  },
  {
   "brand": "Szydłowianka",
@@ -757,7 +1057,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Purple_Valley_Szydlowianka_male.png"
+  "logo": "logos/Purple_Valley_Szydlowianka_male.png",
+  "opis": {
+   "pl": "Suszone śliwki w czekoladzie",
+   "es": "Ciruelas pasas cubiertas de chocolate"
+  }
  },
  {
   "brand": "Szydłowianka",
@@ -767,7 +1071,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Purple_Valley_Szydlowianka_male.png"
+  "logo": "logos/Purple_Valley_Szydlowianka_male.png",
+  "opis": {
+   "pl": "Suszone śliwki w czekoladzie",
+   "es": "Ciruelas pasas cubiertas de chocolate"
+  }
  },
  {
   "brand": "Szydłowianka",
@@ -777,7 +1085,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Purple_Valley_Szydlowianka_male.png"
+  "logo": "logos/Purple_Valley_Szydlowianka_male.png",
+  "opis": {
+   "pl": "Suszone śliwki w czekoladzie",
+   "es": "Ciruelas pasas cubiertas de chocolate"
+  }
  },
  {
   "brand": "Szydłowianka",
@@ -787,7 +1099,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Purple_Valley_Szydlowianka_male.png"
+  "logo": "logos/Purple_Valley_Szydlowianka_male.png",
+  "opis": {
+   "pl": "Suszone śliwki w czekoladzie",
+   "es": "Ciruelas pasas cubiertas de chocolate"
+  }
  },
  {
   "brand": "Szydłowianka",
@@ -797,7 +1113,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Purple_Valley_Szydlowianka_male.png"
+  "logo": "logos/Purple_Valley_Szydlowianka_male.png",
+  "opis": {
+   "pl": "Suszone śliwki w czekoladzie",
+   "es": "Ciruelas pasas cubiertas de chocolate"
+  }
  },
  {
   "brand": "Szydłowianka",
@@ -807,7 +1127,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Purple_Valley_Szydlowianka_male.png"
+  "logo": "logos/Purple_Valley_Szydlowianka_male.png",
+  "opis": {
+   "pl": "Krówki ze śliwką szydłowską",
+   "es": "Dulces de cajeta con ciruela"
+  }
  },
  {
   "brand": "Szydłowianka",
@@ -817,7 +1141,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Purple_Valley_Szydlowianka_male.png"
+  "logo": "logos/Purple_Valley_Szydlowianka_male.png",
+  "opis": {
+   "pl": "Krówki ze śliwką szydłowską",
+   "es": "Dulces de cajeta con ciruela"
+  }
  },
  {
   "brand": "ZPC Skawa",
@@ -827,7 +1155,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/ZPC_Skawa.png"
+  "logo": "logos/ZPC_Skawa.png",
+  "opis": {
+   "pl": "Wafelki w czekoladzie",
+   "es": "Wafers cubiertos de chocolate"
+  }
  },
  {
   "brand": "ZPC Skawa",
@@ -837,7 +1169,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/ZPC_Skawa.png"
+  "logo": "logos/ZPC_Skawa.png",
+  "opis": {
+   "pl": "Draże dla dzieci",
+   "es": "Grageas para niños"
+  }
  },
  {
   "brand": "Solidarność",
@@ -847,7 +1183,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Solidarnosc.png"
+  "logo": "logos/Solidarnosc.png",
+  "opis": {
+   "pl": "Bombonierki i krówki",
+   "es": "Cajas de chocolates y dulces de cajeta"
+  }
  },
  {
   "brand": "Solidarność",
@@ -857,7 +1197,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Solidarnosc.png"
+  "logo": "logos/Solidarnosc.png",
+  "opis": {
+   "pl": "Wiśnie w likierze w czekoladzie",
+   "es": "Cerezas al licor cubiertas de chocolate"
+  }
  },
  {
   "brand": "Unitop",
@@ -867,7 +1211,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Unitop.png"
+  "logo": "logos/Unitop.png",
+  "opis": {
+   "pl": "Krówki, cukierki mleczne",
+   "es": "Dulces de cajeta y de leche"
+  }
  },
  {
   "brand": "Unitop",
@@ -877,7 +1225,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Unitop.png"
+  "logo": "logos/Unitop.png",
+  "opis": {
+   "pl": "Sezamki",
+   "es": "Palanquetas de ajonjolí"
+  }
  },
  {
   "brand": "ZPC Vobro",
@@ -887,7 +1239,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/ZPC_Vobro.svg"
+  "logo": "logos/ZPC_Vobro.svg",
+  "opis": {
+   "pl": "Bombonierki i śliwka w czekoladzie",
+   "es": "Cajas de chocolates y ciruelas cubiertas de chocolate"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -897,7 +1253,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Kiszona czerwona kapusta",
+   "es": "Col morada fermentada"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -907,7 +1267,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Dżem wiśniowy",
+   "es": "Mermelada de cereza"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -917,7 +1281,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Dżem truskawkowy",
+   "es": "Mermelada de fresa"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -927,7 +1295,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Ogórki konserwowe",
+   "es": "Pepinillos en vinagre"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -937,7 +1309,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Ogórki kiszone",
+   "es": "Pepinillos fermentados en salmuera"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -947,7 +1323,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Seler sałatkowy",
+   "es": "Apio nabo rallado en conserva"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -957,7 +1337,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Papryka konserwowa",
+   "es": "Pimiento morrón rojo en conserva"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -967,7 +1351,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Czosnek w oleju",
+   "es": "Ajo en aceite"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -977,7 +1365,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Marynowana cebulka perłowa",
+   "es": "Cebollitas cambray en vinagre"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -987,7 +1379,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Pomidory suszone w oleju",
+   "es": "Jitomates deshidratados en aceite"
+  }
  },
  {
   "brand": "Vortumnus",
@@ -997,107 +1393,11 @@
   "category": "conservas",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
- },
- {
-  "brand": "Vortumnus",
-  "slug": "vortumus",
-  "file": "images/vortumus-12.webp",
-  "thumb": "images/vortumus-12-min.webp",
-  "category": "conservas",
-  "status": "pedido",
-  "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
- },
- {
-  "brand": "Vortumnus",
-  "slug": "vortumus",
-  "file": "images/vortumus-13.webp",
-  "thumb": "images/vortumus-13-min.webp",
-  "category": "conservas",
-  "status": "pedido",
-  "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
- },
- {
-  "brand": "Vortumnus",
-  "slug": "vortumus",
-  "file": "images/vortumus-14.webp",
-  "thumb": "images/vortumus-14-min.webp",
-  "category": "conservas",
-  "status": "pedido",
-  "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
- },
- {
-  "brand": "Vortumnus",
-  "slug": "vortumus",
-  "file": "images/vortumus-15.webp",
-  "thumb": "images/vortumus-15-min.webp",
-  "category": "conservas",
-  "status": "pedido",
-  "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
- },
- {
-  "brand": "Vortumnus",
-  "slug": "vortumus",
-  "file": "images/vortumus-16.webp",
-  "thumb": "images/vortumus-16-min.webp",
-  "category": "conservas",
-  "status": "pedido",
-  "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
- },
- {
-  "brand": "Vortumnus",
-  "slug": "vortumus",
-  "file": "images/vortumus-17.webp",
-  "thumb": "images/vortumus-17-min.webp",
-  "category": "conservas",
-  "status": "pedido",
-  "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
- },
- {
-  "brand": "Vortumnus",
-  "slug": "vortumus",
-  "file": "images/vortumus-18.webp",
-  "thumb": "images/vortumus-18-min.webp",
-  "category": "conservas",
-  "status": "pedido",
-  "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
- },
- {
-  "brand": "Vortumnus",
-  "slug": "vortumus",
-  "file": "images/vortumus-19.webp",
-  "thumb": "images/vortumus-19-min.webp",
-  "category": "conservas",
-  "status": "pedido",
-  "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
- },
- {
-  "brand": "Vortumnus",
-  "slug": "vortumus",
-  "file": "images/vortumus-20.webp",
-  "thumb": "images/vortumus-20-min.webp",
-  "category": "conservas",
-  "status": "pedido",
-  "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
- },
- {
-  "brand": "Vortumnus",
-  "slug": "vortumus",
-  "file": "images/vortumus-21.webp",
-  "thumb": "images/vortumus-21-min.webp",
-  "category": "conservas",
-  "status": "pedido",
-  "source": "catalogo",
-  "logo": "logos/Vortumnus.svg"
+  "logo": "logos/Vortumnus.svg",
+  "opis": {
+   "pl": "Seler sałatkowy",
+   "es": "Apio nabo rallado en conserva"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1107,7 +1407,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Agrest w czekoladzie",
+   "es": "Grosellas espinosas cubiertas de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1117,7 +1421,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Galaretki pomarańczowe w czekoladzie",
+   "es": "Jaleas de naranja cubiertas de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1127,7 +1435,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Galaretki owocowe w cukrze",
+   "es": "Jaleas de fruta cubiertas de azúcar"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1137,7 +1449,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Galaretki wiśniowe w czekoladzie",
+   "es": "Jaleas de cereza cubiertas de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1147,7 +1463,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Skórka pomarańczy w czekoladzie",
+   "es": "Cáscara de naranja cubierta de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1157,7 +1477,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Czekoladki o smaku karmelowo-adwokatowym",
+   "es": "Chocolates sabor caramelo y rompope"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1167,7 +1491,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Trufle w czekoladzie",
+   "es": "Trufas cubiertas de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1177,7 +1505,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Czekoladki przekładane",
+   "es": "Chocolates en capas"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1187,7 +1519,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Wiśnie w czekoladzie",
+   "es": "Cerezas cubiertas de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1197,7 +1533,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Suszone śliwki w czekoladzie",
+   "es": "Ciruelas pasas cubiertas de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1207,7 +1547,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Pianki",
+   "es": "Malvaviscos"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1217,7 +1561,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Pianki",
+   "es": "Malvaviscos"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1227,7 +1575,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Baton waflowy w czekoladzie",
+   "es": "Barra de wafer cubierta de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1237,7 +1589,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Batony waflowe w czekoladzie",
+   "es": "Barras de wafer cubiertas de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1247,7 +1603,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Batony waflowe w czekoladzie",
+   "es": "Barras de wafer cubiertas de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1257,7 +1617,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Baton waflowy w czekoladzie",
+   "es": "Barra de wafer cubierta de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1267,7 +1631,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Batony waflowe w czekoladzie",
+   "es": "Barras de wafer cubiertas de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1277,7 +1645,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Baton waflowy w czekoladzie",
+   "es": "Barra de wafer cubierta de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1287,7 +1659,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Baton waflowy w czekoladzie",
+   "es": "Barra de wafer cubierta de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1297,7 +1673,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Batony waflowe w czekoladzie",
+   "es": "Barras de wafer cubiertas de chocolate"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1307,7 +1687,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Batony waflowe z kremem kakaowym",
+   "es": "Barras de wafer con crema de cacao"
+  }
  },
  {
   "brand": "ZPC Wisła",
@@ -1317,7 +1701,11 @@
   "category": "confiteria",
   "status": "pedido",
   "source": "catalogo",
-  "logo": "logos/ZPC_Wisla.png"
+  "logo": "logos/ZPC_Wisla.png",
+  "opis": {
+   "pl": "Baton waflowy z kremem kakaowym",
+   "es": "Barra de wafer con crema de cacao"
+  }
  },
  {
   "brand": "R. Wójcik",
@@ -1327,7 +1715,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Wojcik_Mleczko_Gnieznienskie.png"
+  "logo": "logos/Wojcik_Mleczko_Gnieznienskie.png",
+  "opis": {
+   "pl": "Pianki mleczne w czekoladzie, pistacjowe",
+   "es": "Suflé de leche sabor pistache cubierto de chocolate"
+  }
  },
  {
   "brand": "R. Wójcik",
@@ -1337,7 +1729,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Wojcik_Mleczko_Gnieznienskie.png"
+  "logo": "logos/Wojcik_Mleczko_Gnieznienskie.png",
+  "opis": {
+   "pl": "Pianki mleczne w czekoladzie",
+   "es": "Suflé de leche cubierto de chocolate"
+  }
  },
  {
   "brand": "R. Wójcik",
@@ -1347,7 +1743,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Wojcik_Mleczko_Gnieznienskie.png"
+  "logo": "logos/Wojcik_Mleczko_Gnieznienskie.png",
+  "opis": {
+   "pl": "Pianki mleczne w czekoladzie",
+   "es": "Suflé de leche cubierto de chocolate"
+  }
  },
  {
   "brand": "R. Wójcik",
@@ -1357,7 +1757,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Wojcik_Mleczko_Gnieznienskie.png"
+  "logo": "logos/Wojcik_Mleczko_Gnieznienskie.png",
+  "opis": {
+   "pl": "Pianki mleczne w czekoladzie",
+   "es": "Suflé de leche cubierto de chocolate"
+  }
  },
  {
   "brand": "R. Wójcik",
@@ -1367,7 +1771,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/Wojcik_Mleczko_Gnieznienskie.png"
+  "logo": "logos/Wojcik_Mleczko_Gnieznienskie.png",
+  "opis": {
+   "pl": "Pianki mleczne w czekoladzie, malinowe",
+   "es": "Suflé de leche sabor frambuesa cubierto de chocolate"
+  }
  },
  {
   "brand": "Łuczniczka",
@@ -1377,7 +1785,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Luczniczka.png"
+  "logo": "logos/Luczniczka.png",
+  "opis": {
+   "pl": "Praliny z nadzieniem advocat",
+   "es": "Chocolates rellenos de rompope"
+  }
  },
  {
   "brand": "Łuczniczka",
@@ -1387,7 +1799,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Luczniczka.png"
+  "logo": "logos/Luczniczka.png",
+  "opis": {
+   "pl": "Praliny z kremem orzechowym",
+   "es": "Chocolates rellenos de crema de avellana"
+  }
  },
  {
   "brand": "Łuczniczka",
@@ -1397,7 +1813,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Luczniczka.png"
+  "logo": "logos/Luczniczka.png",
+  "opis": {
+   "pl": "Praliny z kremem mlecznym",
+   "es": "Chocolates con relleno cremoso de leche"
+  }
  },
  {
   "brand": "Łuczniczka",
@@ -1407,7 +1827,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Luczniczka.png"
+  "logo": "logos/Luczniczka.png",
+  "opis": {
+   "pl": "Praliny z kremem orzechowym",
+   "es": "Chocolates rellenos de crema de avellana"
+  }
  },
  {
   "brand": "Łuczniczka",
@@ -1417,7 +1841,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "propia",
-  "logo": "logos/Luczniczka.png"
+  "logo": "logos/Luczniczka.png",
+  "opis": {
+   "pl": "Praliny z kremem pistacjowym",
+   "es": "Chocolates rellenos de crema de pistache"
+  }
  },
  {
   "brand": "ZPC Śnieżka",
@@ -1427,7 +1855,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Sniezka.png"
+  "logo": "logos/ZPC_Sniezka.png",
+  "opis": {
+   "pl": "Cukierki w czekoladzie z orzeszkami i kokosem",
+   "es": "Dulces cubiertos de chocolate con cacahuate y coco"
+  }
  },
  {
   "brand": "ZPC Śnieżka",
@@ -1437,7 +1869,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Sniezka.png"
+  "logo": "logos/ZPC_Sniezka.png",
+  "opis": {
+   "pl": "Cukierki z orzeszkami arachidowymi w czekoladzie",
+   "es": "Dulces de cacahuate cubiertos de chocolate"
+  }
  },
  {
   "brand": "ZPC Śnieżka",
@@ -1447,7 +1883,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Sniezka.png"
+  "logo": "logos/ZPC_Sniezka.png",
+  "opis": {
+   "pl": "Cukierki z orzeszkami arachidowymi w czekoladzie",
+   "es": "Dulces de cacahuate cubiertos de chocolate"
+  }
  },
  {
   "brand": "ZPC Śnieżka",
@@ -1457,7 +1897,11 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Sniezka.png"
+  "logo": "logos/ZPC_Sniezka.png",
+  "opis": {
+   "pl": "Cukierki śmietankowe z kolorową posypką",
+   "es": "Dulces sabor crema con chispas de colores"
+  }
  },
  {
   "brand": "ZPC Śnieżka",
@@ -1467,6 +1911,10 @@
   "category": "confiteria",
   "status": "mexico",
   "source": "catalogo",
-  "logo": "logos/ZPC_Sniezka.png"
+  "logo": "logos/ZPC_Sniezka.png",
+  "opis": {
+   "pl": "Cukierki rumowe z kakaową posypką",
+   "es": "Dulces sabor ron con chispas de cacao"
+  }
  }
 ]
